@@ -1,4 +1,4 @@
-anking System API – Professional & Reusable Architecture
+Banking System API – Professional & Reusable Architecture
 This repository presents a robust Node.js API tailored for a banking system, built with highly reusable folder structuring and enterprise-grade coding practices. The project is designed to serve as a reference for developers aiming to build scalable, secure, and maintainable applications.
 
 Features
